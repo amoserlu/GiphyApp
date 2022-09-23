@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "capgemini",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "prd"
+              ]
+        },
+        {
+            "name": "capgemini stg",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "args": [
+                "--flavor",
+                "stg"
+              ]
+        },
+        {
+            "name": "capgemini (dev mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--flavor",
+                "dev"
+              ]
+        }
+    ]
+}

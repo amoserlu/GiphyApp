@@ -1,0 +1,11 @@
+{
+    "appName": "Giphy app",
+    "username": "Username",
+    "login": "Login",
+    "userWarning": "Only the user \"user\"  is valid",
+    "changeLanguage": "Change language",
+    "tipUser" : "You must enter the user \"user \"",
+    "errorGiphy": "Error loading Giphy",
+    "createdBy": "Created by:",
+    "source": "Source:"
+}

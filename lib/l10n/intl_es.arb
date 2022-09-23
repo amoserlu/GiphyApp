@@ -1,0 +1,12 @@
+{
+    "appName": "Aplicación Giphy",
+    "username": "Usuario",
+    "login": "Entrar",
+    "userWarning": "Solo el usuario \"user\" es válido",
+    "changeLanguage": "Cambiar idioma",
+    "tipUser" : "Debes de intruducir el usuario \"user \"",
+    "errorGif" : "Error al cargar los gif",
+    "createdBy": "Creado por:",
+    "source": "Fuente:"
+
+}
